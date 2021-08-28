@@ -1,0 +1,1 @@
+In this project we have a given a dataset and we have to find some queries to find the results for the dataset. This data set is related about the movies and their year of releases,duration of movie.we done this project by using File handling method.
